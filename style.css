@@ -113,3 +113,24 @@ h3 {
 .razryv {
     height: 200px;
 }
+
+a.z{
+    text-transform: uppercase;
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+            transition: all 0.5s ease; 
+  }
+  a.z:hover{
+    color: #5265f6;
+  }
+
+  .xt{
+    line-height: 1;
+    -webkit-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+  }
+  .xt:hover{
+    -webkit-text-shadow: 2px 2px 2px #000;
+    -moz-text-shadow: 2px 2px 2px #000;
+        text-shadow: 2px 2px 2px #000;
+  }
