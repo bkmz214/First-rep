@@ -16,6 +16,7 @@ a{
     bottom: 25px;
 }
 
+
 .logo{
     position: fixed;
     z-index: 1000;
@@ -42,8 +43,8 @@ p1 {
 .xt{
     position: relative;
     position: absolute;
-    top: 50%;
-    left: 6%;
+    top: 32%;
+    left: 18%;
     background-color: #9900CF;
     padding: 55px 50px;
     border-style: solid;
